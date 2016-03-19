@@ -4,5 +4,4 @@ services:
         build: .
         ports:
             - "9306:9306"
-        volumes:
-            - .:/home/app
+
